@@ -1,0 +1,30 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Config-File
+Upstream-Contact: Johan Wassberg <theseal@cpan.org>
+Source: https://metacpan.org/release/Config-File
+
+Files: *
+Copyright:
+ 2002, Sébastien J. Gross <sjg@debian.org>
+ 2003-2018, Gunnar Wolf <gwolf@gwolf.org>
+ 2018-, Stockholm University
+License: GPL-2+
+
+Files: debian/*
+Copyright:
+ 2002, Sébastien J. Gross <sjg@debian.org>
+ 2003-2009, Gunnar Wolf <gwolf@debian.org>
+ 2007-2009, Damyan Ivanov <dmn@debian.org>
+ 2008-2020, gregor herrmann <gregoa@debian.org>
+License: GPL-2+
+Comment: The packaging is licensed under the same terms as the
+ software itself.
+
+License: GPL-2+
+ This program is free software; you can redistribute it and/or modify it
+ under the terms of the GNU Library General Public License as published
+ by the Free Software Foundation; either version 2, or (at your option)
+ any later version.
+ .
+ On Debian systems, the complete text of the GNU General Public
+ License version 2 can be found in `/usr/share/common-licenses/GPL-2'.
